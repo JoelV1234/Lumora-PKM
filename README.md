@@ -1,36 +1,111 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+Here's a clean, modern, and professional **README.md** for your open-source project **Lumora**.
 
-## Getting Started
+```markdown
+# Lumora
 
-First, run the development server:
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![GitHub stars](https://img.shields.io/github/stars/yourusername/lumora?style=social)](https://github.com/yourusername/lumora)
+
+**A sleek, modern, open-source personal knowledge studio.**
+
+Lumora is a calm and beautiful second brain for individuals. Capture thoughts in Daily Notes, create linked **Objects**, and build your personal web of knowledge — without folders, without clutter, and without AI.
+
+Inspired by the best of Capacities, but fully open source, free forever, and focused on simplicity and joy.
+
+![Lumora Hero](https://via.placeholder.com/800x400/1e1e2e/6366f1?text=Lumora+Screenshot)
+
+## ✨ Features
+
+- **Daily Notes** — Your frictionless daily inbox
+- **Objects** — Everything is a structured object (Notes, People, Books, Projects, Meetings, Tasks, etc.)
+- **Bi-directional Links** — Automatic backlinks and effortless connections
+- **Custom Object Types** — Create your own types with custom properties
+- **Multiple Views** — List, Table, Gallery, Calendar, and Kanban
+- **Beautiful Graph View** — Explore your knowledge visually
+- **Sleek & Modern UI** — Minimalist design with smooth animations and premium feel
+- **Full Offline Support** — Local-first architecture
+- **Complete Data Export** — Markdown, JSON, CSV, PDF — no lock-in
+- **Cross-Platform** — Web (PWA), Desktop (Mac, Windows, Linux), Mobile (iOS & Android)
+
+**No AI. No payments. No bloat. Just your knowledge, beautifully organized.**
+
+## 🎯 Philosophy
+
+- Simplicity and speed above all
+- Your data belongs to you
+- Calm, focused, and delightful user experience
+- 100% open source and community-driven
+
+## 🚀 Quick Start
+
+### For Users
+
+1. Visit [lumora.app](https://lumora.app) (coming soon) or run locally
+2. Start writing in your Daily Note
+3. Turn ideas into Objects and start linking
+
+### For Developers
 
 ```bash
+git clone https://github.com/yourusername/lumora.git
+cd lumora
+
+# Install dependencies
+npm install
+
+# Start development server
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+See the [Contributing Guide](CONTRIBUTING.md) for more details.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🛠 Tech Stack (Planned)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+- **Frontend**: React + TypeScript + Tailwind CSS
+- **Editor**: Block-based (Tiptap or similar)
+- **Database**: Local-first (IndexedDB / SQLite via OpSqlite or Tauri)
+- **Desktop**: Tauri
+- **Mobile**: React Native or Capacitor
+- **Graph View**: React Flow or custom canvas
 
-## Learn More
+## 📋 Requirements
 
-To learn more about Next.js, take a look at the following resources:
+- No AI features
+- Completely free and open source
+- Sleek, modern, minimalist UI with smooth micro-interactions
+- Strong emphasis on performance and delightful UX
+- Full data portability
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 📄 Documentation
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- [User Guide](docs/user-guide.md) (coming soon)
+- [Object Types & Properties](docs/object-system.md)
+- [Contributing](CONTRIBUTING.md)
+- [Roadmap](ROADMAP.md)
 
-## Deploy on Vercel
+## 🤝 Contributing
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+We welcome contributions! Whether it's code, design, documentation, or bug reports — every help counts.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a PR.
+
+## 📜 License
+
+This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
+
+## ❤️ Acknowledgements
+
+Inspired by Capacities and other great personal knowledge tools.
+
+---
+
+**Made with calm and focus.**
+
+---
+
+### How to use this README:
+
+1. Replace `yourusername` with your actual GitHub username.
+2. Update the badge links and placeholder image with real screenshots once you have them.
+3. Add actual links for the website when ready.
+4. Create the additional files (`CONTRIBUTING.md`, `ROADMAP.md`, etc.) as the project grows.
