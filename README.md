@@ -9,8 +9,6 @@ Lumora is a calm and beautiful second brain for individuals. Capture thoughts in
 
 Inspired by the best of Capacities, but fully open source, free forever, and focused on simplicity and joy.
 
-![Lumora Hero](https://via.placeholder.com/800x400/1e1e2e/6366f1?text=Lumora+Screenshot)
-
 ## ✨ Features
 
 - **Daily Notes** — Your frictionless daily inbox
